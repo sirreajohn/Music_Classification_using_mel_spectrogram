@@ -2,7 +2,7 @@
 
 Classifying Music genre using an acoustic time-frequency representation of a sound, a Mel Spectrogram.
 
-**Deployed using streamlit [Here]()**
+**Deployed using streamlit [Here](https://share.streamlit.io/sirreajohn/music_classification_using_mel_spectrogram/music_recognition.py)**
 
 ## Description
 ### Conventional Way
@@ -27,7 +27,7 @@ This is a VGG19 with Custom head trained over 2k Wav files found [here](https://
 
 ## Working/instructions
 
-- Deployed model can be found [here]()
+- Deployed model can be found [here](https://share.streamlit.io/sirreajohn/music_classification_using_mel_spectrogram/music_recognition.py)
 - just upload .wav file of preferably 30sec length 
 
 ## Requirements
